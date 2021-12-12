@@ -74,7 +74,7 @@
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "BF Dead confirm",
+			"name": "BF NOTE UP0",
 			"indices": []
 		},
 		{
@@ -85,7 +85,7 @@
 			],
 			"anim": "deathLoop",
 			"fps": 24,
-			"name": "BF Dead Loop",
+			"name": "BF NOTE UP0",
 			"indices": [
 				0,
 				1,
@@ -155,17 +155,17 @@
 			],
 			"anim": "firstDeath",
 			"fps": 24,
-			"name": "BF dies",
+			"name": "BF NOTE UP0",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bfGlow",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-glow",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,

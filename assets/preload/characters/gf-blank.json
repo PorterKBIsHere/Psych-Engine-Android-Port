@@ -1,55 +1,91 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "GF Cheer",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				0,
-				-9
+				-19
 			],
-			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
 			"name": "GF left note",
 			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-11
+				-20
 			],
-			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
 			"name": "GF Down Note",
 			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				14
+				4
 			],
-			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
 			"name": "GF Up Note",
 			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-10
+				-20
 			],
-			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "GF Right Note",
 			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-21
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "gf sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
 			"offsets": [
 				0,
-				-11
+				-9
 			],
-			"loop": false,
 			"anim": "danceLeft",
 			"fps": 24,
 			"name": "GF Dancing Beat",
@@ -73,11 +109,11 @@
 			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-11
+				-9
 			],
-			"loop": false,
 			"anim": "danceRight",
 			"fps": 24,
 			"name": "GF Dancing Beat",
@@ -100,27 +136,11 @@
 			]
 		},
 		{
-			"offsets": [
-				109,
-				-81
-			],
-			"loop": true,
-			"anim": "hairBlow",
-			"fps": 24,
-			"name": "GF Dancing Beat Hair blowing",
-			"indices": [
-				0,
-				1,
-				2,
-				3
-			]
-		},
-		{
-			"offsets": [
-				0,
-				-12
-			],
 			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
 			"anim": "hairFall",
 			"fps": 24,
 			"name": "GF Dancing Beat Hair Landing",
@@ -140,29 +160,29 @@
 			]
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				0,
-				-30
+				-2,
+				-17
 			],
-			"anim": "cheer",
+			"anim": "scared",
 			"fps": 24,
-			"name": "GF Cheer",
+			"name": "GF FEAR",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GF_assetsBLANK",
 	"position": [
 		0,
-		40
+		0
 	],
 	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
+		165,
 		0,
-		162,
-		174
+		77
 	],
 	"camera_position": [
 		0,

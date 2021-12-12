@@ -78,17 +78,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky_kids_assets",
+	"image": "characters/spooky_kids_assets2-5glow",
 	"position": [
 		0,
 		150
 	],
-	"healthicon": "spooky",
+	"healthicon": "spooky2-glow",
 	"flip_x": false,
 	"healthbar_colors": [
-		193,
-		106,
-		0
+		175,
+		184,
+		99
 	],
 	"camera_position": [
 		-50,

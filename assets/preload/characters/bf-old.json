@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-19,
-				-46
+				-15,
+				-49
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-43,
-				35
+				-42,
+				30
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -48,7 +48,7 @@
 			"loop": false,
 			"offsets": [
 				-55,
-				-5
+				-9
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				0
+				-7,
+				2
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				21,
-				-17
+				29,
+				61
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
@@ -80,8 +80,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				21,
-				-17
+				32,
+				-2
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -106,8 +106,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				-6
+				9,
+				14
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -117,8 +117,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-52,
-				-3
+				-51,
+				18
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -128,8 +128,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-16,
-				-46
+				-23,
+				-22
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -139,8 +139,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-43,
-				35
+				-35,
+				26
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -150,8 +150,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-16
+				31,
+				4
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -160,12 +160,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BfOld",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-old",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
