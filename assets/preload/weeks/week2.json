@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
-	],
-
+	"storyName": "Scary Month",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"spooky",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[
+				34,
+				51,
+				128
+			]
+		],
+		[
+			"Sanguine-South",
+			"spooky2",
+			[
+				34,
+				51,
+				108
+			]
+		],
+		[
+			"Chiller",
+			"spooky3",
+			[
+				34,
+				51,
+				88
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 2"
 }
